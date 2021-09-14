@@ -1,0 +1,58 @@
+p {
+  color: hsla(0, 0%, 100%, 0.75);
+  margin: 20px 0 50px;
+  font-family: 'Lexend Deca', sans-serif;
+  font-weight: 400;
+}
+
+h1 {
+  font-family: 'Big Shoulders Display', cursive;
+  padding: 30px 0;
+  margin-bottom: 0;
+}
+
+.container {
+  margin: 10% auto;
+}
+
+.row {
+  margin: 10px auto;
+}
+
+.sedans {
+  background-color: hsl(31, 77%, 52%);
+  border-radius: 5px 0 0 5px;
+}
+
+.btn-sedan, .btn-sedan:hover {
+    color: hsl(31, 77%, 52%);
+}
+
+.SUVs {
+  background-color: hsl(184, 100%, 22%);
+}
+
+.btn-suv, .btn-suv:hover {
+    color: hsl(184, 100%, 22%);
+}
+
+.luxury {
+  background-color: hsl(179, 100%, 13%);
+  border-radius: 0 5px 5px 0;
+}
+
+.btn-luxury, .btn-luxury:hover {
+  color: hsl(179, 100%, 13%);
+}
+
+.car {
+  padding: 50px 30px;
+  height: 500px;
+  color: #FFF;
+}
+
+.btn {
+  border-radius: 30px;
+  position: absolute;
+  bottom: 50px;
+}
